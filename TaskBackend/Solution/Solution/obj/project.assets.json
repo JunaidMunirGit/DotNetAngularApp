@@ -640,11 +640,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Junaid\\Desktop\\DplTask\\TaskBackend\\Solution\\Solution\\Solution.csproj",
+      "projectUniqueName": "C:\\Users\\Junaid\\Desktop\\DotNet Angular Authentication\\TaskBackend\\Solution\\Solution\\Solution.csproj",
       "projectName": "Solution",
-      "projectPath": "C:\\Users\\Junaid\\Desktop\\DplTask\\TaskBackend\\Solution\\Solution\\Solution.csproj",
+      "projectPath": "C:\\Users\\Junaid\\Desktop\\DotNet Angular Authentication\\TaskBackend\\Solution\\Solution\\Solution.csproj",
       "packagesPath": "C:\\Users\\Junaid\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Junaid\\Desktop\\DplTask\\TaskBackend\\Solution\\Solution\\obj\\",
+      "outputPath": "C:\\Users\\Junaid\\Desktop\\DotNet Angular Authentication\\TaskBackend\\Solution\\Solution\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages",

@@ -21,7 +21,11 @@ public class UserService : IUserService
     // users hardcoded for simplicity, store in a db with hashed passwords in production applications
     private List<User> _users = new List<User>
     {
-        new User { Id = 1, FirstName = "Test", LastName = "User", Username = "test", Password = "test" }
+        new User { Id = 1, FirstName = "Test", LastName = "User", Username = "test", Password = "test" },
+        new User { Id = 2, FirstName = "Test1", LastName = "User1", Username = "test1", Password = "test1" },
+        new User { Id = 3, FirstName = "Test2", LastName = "User2", Username = "test2", Password = "test2" },
+        new User { Id = 4, FirstName = "Test3", LastName = "User3", Username = "test3", Password = "test3" },
+        new User { Id = 5, FirstName = "Test4", LastName = "User4", Username = "test4", Password = "test4" }
     };
 
     private readonly AppSettings _appSettings;

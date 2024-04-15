@@ -35,3 +35,41 @@ C:\Users\Junaid\Desktop\DplTask\TaskBackend\Solution\Solution\obj\Debug\net8.0\r
 C:\Users\Junaid\Desktop\DplTask\TaskBackend\Solution\Solution\obj\Debug\net8.0\Solution.pdb
 C:\Users\Junaid\Desktop\DplTask\TaskBackend\Solution\Solution\obj\Debug\net8.0\Solution.genruntimeconfig.cache
 C:\Users\Junaid\Desktop\DplTask\TaskBackend\Solution\Solution\obj\Debug\net8.0\ref\Solution.dll
+C:\Users\Junaid\Desktop\DotNet Angular Authentication\TaskBackend\Solution\Solution\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Junaid\Desktop\DotNet Angular Authentication\TaskBackend\Solution\Solution\bin\Debug\net8.0\appsettings.json
+C:\Users\Junaid\Desktop\DotNet Angular Authentication\TaskBackend\Solution\Solution\bin\Debug\net8.0\Solution.exe
+C:\Users\Junaid\Desktop\DotNet Angular Authentication\TaskBackend\Solution\Solution\bin\Debug\net8.0\Solution.deps.json
+C:\Users\Junaid\Desktop\DotNet Angular Authentication\TaskBackend\Solution\Solution\bin\Debug\net8.0\Solution.runtimeconfig.json
+C:\Users\Junaid\Desktop\DotNet Angular Authentication\TaskBackend\Solution\Solution\bin\Debug\net8.0\Solution.dll
+C:\Users\Junaid\Desktop\DotNet Angular Authentication\TaskBackend\Solution\Solution\bin\Debug\net8.0\Solution.pdb
+C:\Users\Junaid\Desktop\DotNet Angular Authentication\TaskBackend\Solution\Solution\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Junaid\Desktop\DotNet Angular Authentication\TaskBackend\Solution\Solution\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Junaid\Desktop\DotNet Angular Authentication\TaskBackend\Solution\Solution\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Junaid\Desktop\DotNet Angular Authentication\TaskBackend\Solution\Solution\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Junaid\Desktop\DotNet Angular Authentication\TaskBackend\Solution\Solution\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Junaid\Desktop\DotNet Angular Authentication\TaskBackend\Solution\Solution\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Junaid\Desktop\DotNet Angular Authentication\TaskBackend\Solution\Solution\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Junaid\Desktop\DotNet Angular Authentication\TaskBackend\Solution\Solution\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Junaid\Desktop\DotNet Angular Authentication\TaskBackend\Solution\Solution\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Junaid\Desktop\DotNet Angular Authentication\TaskBackend\Solution\Solution\obj\Debug\net8.0\Solution.csproj.AssemblyReference.cache
+C:\Users\Junaid\Desktop\DotNet Angular Authentication\TaskBackend\Solution\Solution\obj\Debug\net8.0\Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Junaid\Desktop\DotNet Angular Authentication\TaskBackend\Solution\Solution\obj\Debug\net8.0\Solution.AssemblyInfoInputs.cache
+C:\Users\Junaid\Desktop\DotNet Angular Authentication\TaskBackend\Solution\Solution\obj\Debug\net8.0\Solution.AssemblyInfo.cs
+C:\Users\Junaid\Desktop\DotNet Angular Authentication\TaskBackend\Solution\Solution\obj\Debug\net8.0\Solution.csproj.CoreCompileInputs.cache
+C:\Users\Junaid\Desktop\DotNet Angular Authentication\TaskBackend\Solution\Solution\obj\Debug\net8.0\Solution.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Junaid\Desktop\DotNet Angular Authentication\TaskBackend\Solution\Solution\obj\Debug\net8.0\Solution.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Junaid\Desktop\DotNet Angular Authentication\TaskBackend\Solution\Solution\obj\Debug\net8.0\Solution.sourcelink.json
+C:\Users\Junaid\Desktop\DotNet Angular Authentication\TaskBackend\Solution\Solution\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Junaid\Desktop\DotNet Angular Authentication\TaskBackend\Solution\Solution\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Junaid\Desktop\DotNet Angular Authentication\TaskBackend\Solution\Solution\obj\Debug\net8.0\staticwebassets\msbuild.Solution.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Junaid\Desktop\DotNet Angular Authentication\TaskBackend\Solution\Solution\obj\Debug\net8.0\staticwebassets\msbuild.build.Solution.props
+C:\Users\Junaid\Desktop\DotNet Angular Authentication\TaskBackend\Solution\Solution\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Solution.props
+C:\Users\Junaid\Desktop\DotNet Angular Authentication\TaskBackend\Solution\Solution\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Solution.props
+C:\Users\Junaid\Desktop\DotNet Angular Authentication\TaskBackend\Solution\Solution\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Junaid\Desktop\DotNet Angular Authentication\TaskBackend\Solution\Solution\obj\Debug\net8.0\scopedcss\bundle\Solution.styles.css
+C:\Users\Junaid\Desktop\DotNet Angular Authentication\TaskBackend\Solution\Solution\obj\Debug\net8.0\Solution.csproj.Up2Date
+C:\Users\Junaid\Desktop\DotNet Angular Authentication\TaskBackend\Solution\Solution\obj\Debug\net8.0\Solution.dll
+C:\Users\Junaid\Desktop\DotNet Angular Authentication\TaskBackend\Solution\Solution\obj\Debug\net8.0\refint\Solution.dll
+C:\Users\Junaid\Desktop\DotNet Angular Authentication\TaskBackend\Solution\Solution\obj\Debug\net8.0\Solution.pdb
+C:\Users\Junaid\Desktop\DotNet Angular Authentication\TaskBackend\Solution\Solution\obj\Debug\net8.0\Solution.genruntimeconfig.cache
+C:\Users\Junaid\Desktop\DotNet Angular Authentication\TaskBackend\Solution\Solution\obj\Debug\net8.0\ref\Solution.dll
