@@ -68,18 +68,14 @@ builder.Services.AddSwaggerGen(options =>
 });
 
 
-
-
 var app = builder.Build();
-
 
 // global cors policy
 app.UseCors(x => x
+    .WithOrigins("http://localhost:4200")
     .AllowAnyOrigin()
     .AllowAnyMethod()
     .AllowAnyHeader());
-
-
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
@@ -94,7 +90,6 @@ app.UseAuthorization();
 
 // custom jwt auth middleware
 app.UseMiddleware<JwtMiddleware>();
-
 
 app.MapControllers();
 
